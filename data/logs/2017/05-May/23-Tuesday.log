@@ -1,0 +1,55 @@
+
+
+Starting up. (ID: bOC-bWi5) 06:46.52
+---------------------
+[12:00:00] bOC-bWi5 MISC: Failed to load config/alienwhitelist.txt
+[12:00:00] bOC-bWi5 ADMIN: Loading jobban_rank
+[12:00:00] bOC-bWi5 ADMIN: jobban_keylist was empty
+[12:00:00] bOC-bWi5 ADMIN: Loading Banlist
+[12:00:00] bOC-bWi5 ADMIN: Banlist is empty.
+[12:00:00] bOC-bWi5 ADMIN: Banlist missing base dir.
+[12:00:00] bOC-bWi5 DEBUG: Rebuilding Master Controller
+[12:00:00] bOC-bWi5 DEBUG: Runtime in preferences_savefile.dm,11: Safety violation: tried to access &#39;C:\Users\Gannon\Desktop\Baystation12-dev\data\player_saves\c\casany\preferences.sav&#39; outside of current directory. <A HREF='?src=[0x21006784];viewruntime=[0x21006784]'>[view]</A>
+[12:00:00] bOC-bWi5 DEBUG: Runtime in preferences_savefile.dm,34: Safety violation: tried to access &#39;C:\Users\Gannon\Desktop\Baystation12-dev\data\player_saves\c\casany\preferences.sav&#39; outside of current directory. <A HREF='?src=[0x21006787];viewruntime=[0x21006787]'>[view]</A>
+[12:00:00] bOC-bWi5 ACCESS: Login: Casany/(Casany) from localhost-970043809 || BYOND v511
+[12:00:00] bOC-bWi5 DEBUG: Runtime in zlevel.dm,5: Safety violation: tried to access &#39;C:\Users\Gannon\Desktop\Baystation12-dev\maps\RandomZLevels\fileList.txt&#39; outside of current directory. <A HREF='?src=[0x21010bd4];viewruntime=[0x21010bd4]'>[view]</A>
+[12:00:00] bOC-bWi5 ACCESS: Logout: Casany/(Casany)
+[19:00:00] bOC-bWTV DEBUG: Runtime in sound.dm,159: Cannot execute null.play to(). <A HREF='?src=[0x210063f6];viewruntime=[0x210063f6]'>[view]</A>
+
+
+Starting up. (ID: bOC-bXXB) 06:57.19
+---------------------
+[21:00:00] bOC-bXXB MISC: Failed to load config/alienwhitelist.txt
+[21:00:00] bOC-bXXB ADMIN: Loading jobban_rank
+[21:00:00] bOC-bXXB ADMIN: jobban_keylist was empty
+[21:00:00] bOC-bXXB ADMIN: Loading Banlist
+[21:00:00] bOC-bXXB DEBUG: Rebuilding Master Controller
+[21:00:00] bOC-bXXB ACCESS: Login: Casany/(Casany) from 127.0.0.1-970043809 || BYOND v511
+[21:00:00] bOC-bXXB ACCESS: Logout: Casany/(Casany)
+
+
+Starting up. (ID: bOC-b4EH) 07:33.47
+---------------------
+[02:00:00] bOC-b4EH MISC: Failed to load config/alienwhitelist.txt
+[02:00:00] bOC-b4EH ADMIN: Loading jobban_rank
+[02:00:00] bOC-b4EH ADMIN: jobban_keylist was empty
+[02:00:00] bOC-b4EH ADMIN: Loading Banlist
+[02:00:00] bOC-b4EH DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: bOC-b9if) 08:03.28
+---------------------
+[02:00:00] bOC-b9if MISC: Failed to load config/alienwhitelist.txt
+[02:00:00] bOC-b9if ADMIN: Loading jobban_rank
+[02:00:00] bOC-b9if ADMIN: jobban_keylist was empty
+[02:00:00] bOC-b9if ADMIN: Loading Banlist
+[02:00:00] bOC-b9if DEBUG: Rebuilding Master Controller
+
+
+Starting up. (ID: bOD-aovF) 20:33.01
+---------------------
+[07:00:00] bOD-aovF MISC: Failed to load config/alienwhitelist.txt
+[07:00:00] bOD-aovF ADMIN: Loading jobban_rank
+[07:00:00] bOD-aovF ADMIN: jobban_keylist was empty
+[07:00:00] bOD-aovF ADMIN: Loading Banlist
+[07:00:00] bOD-aovF DEBUG: Rebuilding Master Controller

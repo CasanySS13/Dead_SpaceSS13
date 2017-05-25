@@ -1,0 +1,9 @@
+
+
+Starting up. (ID: bOD-dgHf) 15:34.28
+---------------------
+[07:00:00] bOD-dgHf MISC: Failed to load config/alienwhitelist.txt
+[07:00:00] bOD-dgHf ADMIN: Loading jobban_rank
+[07:00:00] bOD-dgHf ADMIN: jobban_keylist was empty
+[07:00:00] bOD-dgHf ADMIN: Loading Banlist
+[07:00:00] bOD-dgHf DEBUG: Rebuilding Master Controller
